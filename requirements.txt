@@ -1,0 +1,14 @@
+pyttsx3
+speechrecognition
+pyaudio
+pyautogui
+fuzzywuzzy
+openai
+tk
+tkvideo
+requests
+webbrowser
+pywhatkit
+python-Levenshtein
+pystray
+Pillow

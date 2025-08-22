@@ -1,0 +1,8 @@
+pip install pyttsx3 speechrecognition pyautogui pywhatkit pystray pillow requests beautifulsoup4
+pip install pipwin
+pipwin install pyaudio
+INSTALL ALL THIS MODELS IN TERMINAL BEFOR USE 
+
+API KEY 
+API_KEY = "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"
+RUN JARVICES python main.py
