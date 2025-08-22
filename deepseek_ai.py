@@ -2,7 +2,7 @@ import requests
 
 # Replace with your actual OpenRouter API key (keep it secret)
 API_KEY = (
-    "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"
+    "your-deepseekR1apikey"
 )
 
 headers = {
