@@ -85,7 +85,9 @@ Jarvis_Bhai/
 - `pystray` — System tray icon  
 - [**DeepSeek R1**](https://openrouter.ai) via OpenRouter — Smart AI responses
 
-  🧠 Future Plans
+  ----
+
+🧠 Future Plans
 
 Full offline mode (no API needed)
 
@@ -94,6 +96,8 @@ Emotion-based replies
 Control Windows deeply (files, camera, system settings)
 
 Custom hotkeys + gestures
+
+-------
 
 ✨ Credits
 
@@ -106,6 +110,7 @@ Infinity Services Providers
 infinityservicesproviders.com
 
 ---
+
 👨‍💻 Author/Founder of Infinity Services Providers
 
 Anirudra Gupta
@@ -133,7 +138,6 @@ headers = {
 }
 4️⃣ Run the assistant
 python main.py
-
-
----
+-----
+-----
 
